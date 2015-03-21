@@ -1,3 +1,3 @@
-# Orders Module
+# Accounting Module
 
 An eCommerce module.

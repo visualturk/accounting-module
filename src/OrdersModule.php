@@ -1,16 +1,16 @@
-<?php namespace Anomaly\OrdersModule;
+<?php namespace Anomaly\AccountingModule;
 
 use Anomaly\Streams\Platform\Addon\Module\Module;
 
 /**
- * Class OrdersModule
+ * Class AccountingModule
  *
  * @link          http://anomaly.is/streams-platform
  * @author        AnomalyLabs, Inc. <hello@anomaly.is>
  * @author        Ryan Thompson <ryan@anomaly.is>
- * @package       Anomaly\OrdersModule
+ * @package       Anomaly\AccountingModule
  */
-class OrdersModule extends Module
+class AccountingModule extends Module
 {
 
     /**
@@ -18,7 +18,7 @@ class OrdersModule extends Module
      *
      * @var string
      */
-    protected $navigation = 'anomaly.module.orders::addon.navigation';
+    protected $navigation = 'anomaly.module.accounting::addon.navigation';
 
     /**
      * The addon sections.

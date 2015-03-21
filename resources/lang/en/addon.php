@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'name'        => 'Orders',
+    'name'        => 'Accounting',
     'description' => 'An eCommerce module.',
     'navigation'  => 'Store',
     'section'     => [

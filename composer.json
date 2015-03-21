@@ -1,5 +1,5 @@
 {
-    "name": "anomaly/orders-module",
+    "name": "anomaly/accounting-module",
     "type": "streams-addon",
     "description": "An eCommerce module.",
     "keywords": [
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Anomaly\\OrdersModule\\": "src/"
+            "Anomaly\\AccountingModule\\": "src/"
         }
     },
     "extra": {
